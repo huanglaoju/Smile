@@ -40,7 +40,7 @@ class MainActivity : AppCompatActivity() {
 
         navigationView.setNavigationItemSelectedListener { item ->
             when (item.itemId) {
-                R.id.nav_text
+//                R.id.nav_text
             }
         }
     }
